@@ -8,3 +8,10 @@ our goal is to generate texts like nietzsche quotes.
 >>Training GRU character based language model\
 >>Training LSTM character based language model\
 >> Camparing LSTM and GRU character based language model
+
+## Libraries
+*  pytorch
+*  numpy
+*  tqdm
+*  pandas
+*  collections
